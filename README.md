@@ -1,2 +1,1 @@
-# CAN-Dashboard
-A CAN protocol-based vehicle dashboard system implemented on LPC2129 to transmit and display real-time parameters like speed, RPM, and temperature.
+This project demonstrates a real-time dashboard implementation using the CAN (Controller Area Network) protocol, commonly used in automotive and industrial systems. Two nodes are designed: Node A acts as the sensor/sender, transmitting vehicle parameters like speed, RPM, and temperature, while Node B receives and displays this data on an LCD or serial monitor.
