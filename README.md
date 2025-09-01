@@ -10,12 +10,10 @@ It focuses on real-time display and control of vehicle parameters and lights, su
 - **Dashboard Display:**  
   - Speedometer  
   - Engine temperature  
-  - Warning indicators  
 
 - **Light Control Unit:**  
   - Headlights (low/high beam)  
   - Turn indicators  
-  - Hazard lights  
 
 - **Embedded Communication:**  
   - CAN protocol for sensor-actuator interfacing  
