@@ -1,26 +1,46 @@
-# # CAN-Dashboard 🚗
+# Instrument Cluster & Light Control Unit 🚗
 
-This project demonstrates a real-time dashboard implementation using the CAN (Controller Area Network) protocol, commonly used in automotive and industrial systems. Two nodes are designed: Node A acts as the sensor/sender, transmitting vehicle parameters like speed, RPM, and temperature, while Node B receives and displays this data on an LCD or serial monitor.
-A vehicle dashboard interface implemented on the **LPC2129 ARM7 microcontroller**.  
-This project demonstrates real-time monitoring and display of vehicle parameters over the **CAN bus protocol**.
-
----
-
-## 🔧 Features
-- Real-time acquisition of **Speed, RPM, and Temperature** data
-- Communication using **Controller Area Network (CAN)**
-- Embedded C firmware with **GCC cross-compiler**
-- Debugging via **JTAG & Serial Monitor**
+This project demonstrates an **Automotive Instrument Cluster and Light Control Unit** using embedded systems.  
+It focuses on real-time display and control of vehicle parameters and lights, suitable for automotive embedded applications.
 
 ---
 
-## 🛠️ Hardware & Tools
-- **Microcontroller:** LPC2129 (ARM7)
-- **Interface:** CAN Transceiver
-- **Tools:** Keil uVision / GCC, GDB, JTAG
-- **Protocols:** CAN, UART (debug)
+## 📂 Features
+
+- **Dashboard Display:**  
+  - Speedometer  
+  - Engine temperature  
+  - Warning indicators  
+
+- **Light Control Unit:**  
+  - Headlights (low/high beam)  
+  - Turn indicators  
+  - Hazard lights  
+
+- **Embedded Communication:**  
+  - CAN protocol for sensor-actuator interfacing  
+  - Modular and scalable embedded C code  
 
 ---
+
+## ⚙️ Tools & Environment
+
+- **Microcontroller:** ARM Cortex-M (STM32 / LPC)  
+- **Programming Language:** Embedded C  
+- **Compiler:** GCC / ARM Toolchain  
+- **Debugger:** GDB / JTAG  
+- **IDE:** Keil uVision / VS Code  
+- **Simulation (Optional):** Proteus / QEMU  
+
+---
+
+## 🛠️ How to Use
+
+1. Clone the repository:
+```bash
+git clone https://github.com/<username>/Instrument-Cluster-Light-Control.git
+cd Instrument-Cluster-Light-Control
+
 
 ## 📂 Project Structure
 src/ # Source files
