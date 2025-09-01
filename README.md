@@ -33,7 +33,7 @@ It focuses on real-time display and control of vehicle parameters and lights, su
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<username>/Instrument-Cluster-Light-Control.git
+git clone https://github.com/prathameshsalunkhe/CAN-Dashboard/blob/main.git
 cd Instrument-Cluster-Light-Control
 
 
