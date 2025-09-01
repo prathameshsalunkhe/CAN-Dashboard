@@ -7,17 +7,17 @@ It focuses on real-time display and control of vehicle parameters and lights, su
 
 ## 📂 Features
 
-- **Dashboard Display:**  
-  - Speedometer  
-  - Engine temperature  
+ -**Dashboard Display:**  
+   Speedometer  
+   Engine temperature  
 
-- **Light Control Unit:**  
-  - Headlights (low/high beam)  
-  - Turn indicators  
+ -**Light Control Unit:**  
+   Headlights (low/high beam)  
+   Turn indicators  
 
-- **Embedded Communication:**  
-  - CAN protocol for sensor-actuator interfacing  
-  - Modular and scalable embedded C code  
+-**Embedded Communication:**  
+   CAN protocol for sensor-actuator interfacing  
+   Modular and scalable embedded C code  
 
 ---
 
