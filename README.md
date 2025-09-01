@@ -26,11 +26,8 @@ It focuses on real-time display and control of vehicle parameters and lights, su
 ## ⚙️ Tools & Environment
 
 - **Microcontroller:** ARM Cortex-M (LPC2129)  
-- **Programming Language:** Embedded C  
-- **Compiler:** GCC / ARM Toolchain  
-- **Debugger:** GDB / JTAG  
-- **IDE:** Keil uVision / VS Code  
-- **Simulation (Optional):** Proteus / QEMU  
+- **Programming Language:** Embedded C     
+- **IDE:** Keil uVision 
 
 ---
 
