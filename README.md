@@ -25,7 +25,7 @@ It focuses on real-time display and control of vehicle parameters and lights, su
 
 ## ⚙️ Tools & Environment
 
-- **Microcontroller:** ARM Cortex-M (STM32 / LPC)  
+- **Microcontroller:** ARM Cortex-M (LPC2129)  
 - **Programming Language:** Embedded C  
 - **Compiler:** GCC / ARM Toolchain  
 - **Debugger:** GDB / JTAG  
